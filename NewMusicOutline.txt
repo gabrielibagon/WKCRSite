@@ -99,29 +99,32 @@ http://evanparker.com/biography.php
 
 ****RECOMMENDATIONS****:
 ++Modern Classical Composition, Minimalism, etc
-Terry Riley - In C; A Rainbow in Curved Air
-Steve Reich - Six Pianos / Drumming ; Music for 18 Musicians**
-Phillip Glass - Einstein on the Beach
+Luciano Berio - Differences, Visage
+Pierre Boulez - Structures I & II
 John Cage - Works for Piano & Prepared Piano (1943-1952); Indeterminacy
-Charlemagne Palestine - Four Manifestations on Six Elements
-Karlheinze Stockhausen - Stimmung; Mantra; Kontra Punkte
 Morton Feldman - Three Voices for Joan La Barbara ; Rothko Chapel; The Viola in My Life
+Phillip Glass - Einstein on the Beach
 Mauricio Kagel - Musik fur Renaissance-Instrumr	
-James Tenney - Postal Pieces
-Robert Ashley - Private Parts ; Dust**
-Harry Partch - Windsong
+Helmut Lachenmann - Grido
 Gyorgy Ligeti - Atmospheres ; Continuum 
-Krzysztof Penderecki - Threnody for the Victims of Hiroshima
-Iannis Xenakis - Tetras; Palimpsest
-Luigi Nono - 
-Christian Wolff
-Giacinto Scelsi - 
-Edgard Varese	
 Meredith Monk - Book of Days
+Luigi Nono -
+Charlemagne Palestine - Four Manifestations on Six Elements
+Harry Partch - Windsong
+Krzysztof Penderecki - Threnody for the Victims of Hiroshima
+Terry Riley - In C; A Rainbow in Curved Air
+Steve Reich - Six Pianos / Drumming ; Music for 18 Musicians
+Giacinto Scelsi - 
+Karlheinze Stockhausen - Stimmung; Mantra; Kontra Punkte
+James Tenney - Postal Pieces
+Edgard Varese	
+Christian Wolff
+Iannis Xenakis - Tetras; Palimpsest
 
-++Early Electronic, Tape Experiments, etc
+++Electronic, Tape Experiments, etc
 Karlheinz Stockhausen - Kontakte** ; Gesang der Junglinge**
 Pierre Schaeffer - L'oeuvre Musicale**
+Terry Riley - A Rainbow in Curved Air
 Pierre Henry - Variations for a Door and a Sigh
 Wendy Carlos - Beauty in The Beast; Sonic Seasonings
 Laurie Spiegel - The Expanding Universe
@@ -132,6 +135,7 @@ Steve Reich - Violin Phase ; It's Gonna Rain
 Eliane Radigue - 
 John Cage - Fontana Mix; Variations IV
 Vladimir Ussachevsky
+David Behrman - On the Other Ocean
 Earle Brown
 Morton Subotnick - Axolotl
 
@@ -168,6 +172,7 @@ William Parker
 Alvin Lucier - I Am Sitting in a Room*** ; Music on a Long Thin Wire**
 Paul Panhuysen
 Doris (Sorrel) Hays - Voicings
+Robert Ashley - Private Parts
 John Cage & David Tudor - Variations IV**
 
 ++Drone, Ambient (lots of repeats from classical, electronic)
@@ -177,13 +182,14 @@ Tony Conrad - Four Violins
 Harley Gaber - The Winds Rise in the North
 Elaine Radigue
 Pauline Oliveros
-Terry Riley 
+Terry Riley - A Rainbow in Curved Air
 Charlamagne Palestine
 
 ++Noise
 Merzbow**
 C.C.C.C.
 Whitehouse - Bird Seed
+Incapacitants - As Loud as Possible
 Kevin Drumm - Sheer Hellish Miasma
 Oren Ambarchi / Keith Rowe - Squire
 Hijokaidan
