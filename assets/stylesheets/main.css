@@ -328,7 +328,7 @@ table {
   }
 
   #recommendation-list tr.artist{
-    font-size:15px;
+    font-size:16px;
     display:flex;
     justify-content: space-between;
     width:100%;
@@ -339,7 +339,7 @@ table {
 
 
   #recommendation-list tr.recs {
-    font-size: 13px;
+    font-size: 14px;
     display:flex;
     justify-content: space-between;
     width:100%;
