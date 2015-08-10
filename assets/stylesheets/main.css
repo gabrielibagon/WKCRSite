@@ -305,6 +305,10 @@ table {
 
   }
 
+  #recommendation-list h4 {
+    margin-top:40px;
+  }
+
   #recommendation-list table {
     width:100%;
     table-layout:fixed;
@@ -349,7 +353,7 @@ table {
   }
   
   #recommendation-list a {
-    target="blank";
+    ;
   }
 
 
@@ -368,6 +372,7 @@ table {
   }
 
   .intro-resources a {
+    font-size:14px;
     padding-right:30px;
     padding-bottom:12px;
     text-decoration:none;
