@@ -1,12 +1,3 @@
-New Music Resources:
-
-https://en.wikipedia.org/wiki/Free_improvisation
-Hello Staff!
-
-Website stuff is very much underway, and everything is looking good so far! I'd very much like this to be ready by the start of the semester, and since the summer is quickly approaching its end, we need to start with a much more focused effort to get all of the content on the site together.
-
-What this means for the department heads is figuring out the content and structure of each department's section of the website. 
-
 
 
 Brainstorming for the New Music Page:
@@ -102,40 +93,43 @@ http://evanparker.com/biography.php
 Luciano Berio - Differences, Visage
 Pierre Boulez - Structures I & II
 John Cage - Works for Piano & Prepared Piano (1943-1952); Indeterminacy
-Morton Feldman - Three Voices for Joan La Barbara ; Rothko Chapel; The Viola in My Life
+Morton Feldman - Three Voices for Joan La Barbara
 Phillip Glass - Einstein on the Beach
 Mauricio Kagel - Musik fur Renaissance-Instrumr	
 Helmut Lachenmann - Grido
 Gyorgy Ligeti - Atmospheres ; Continuum 
 Meredith Monk - Book of Days
 Luigi Nono -
-Charlemagne Palestine - Four Manifestations on Six Elements
-Harry Partch - Windsong
+Conlon Nancarrow - Studies for Player Piano
+Harry Partch - Windsong; ...In Petaluna
 Krzysztof Penderecki - Threnody for the Victims of Hiroshima
 Terry Riley - In C; A Rainbow in Curved Air
-Steve Reich - Six Pianos / Drumming ; Music for 18 Musicians
-Giacinto Scelsi - 
-Karlheinze Stockhausen - Stimmung; Mantra; Kontra Punkte
+Steve Reich - Six Pianos ; Music for 18 Musicians
+Karlheinze Stockhausen - Stimmung;  Kontra Punkte
 James Tenney - Postal Pieces
-Edgard Varese	
-Christian Wolff
-Iannis Xenakis - Tetras; Palimpsest
+Edgard Varese - Ionisation
+Iannis Xenakis - Tetras; Pleiades; Tetras
 
-++Electronic, Tape Experiments, etc
+++Electronic, Tape Experiments, Drone etc
 
-Harold Budd / Richard Maxwell - The Oak of the Golden Dreams
+Milton Babbit - https://www.youtube.com/watch?v=W5n1pZn4izI
+David Behrman - On the Other Ocean
+Earle Brown - Four Systems
 John Cage - Fontana Mix; Variations IV
 Wendy Carlos - Beauty in The Beast; Sonic Seasonings
+Tony Conrad - Four Violins
+David First - Privacy Issues - Droneworks
 Pierre Henry - Variations for a Door and a Sigh
-Joan La Barbara - Voice is the Original Instrument**
+Joan La Barbara - Voice is the Original Instrument
+Alvin Lucier - I Am Sitting in a Room; Music on a Long Thin Wire
 Pauline Oliveros - Crone Music; Tara's Room
-Luigi Nono - Non Consumiamo Marx
-Eliane Radigue - Trilogie de la Morte
+Eliane Radigue - Kyema
 Steve Reich - Violin Phase ; It's Gonna Rain
 Terry Riley - A Rainbow in Curved Air
-Pierre Schaeffer - L'oeuvre Musicale**
+Pierre Schaeffer - L'oeuvre Musicale
 Laurie Spiegel - The Expanding Universe
-Karlheinz Stockhausen - Kontakte** ; Gesang der Junglinge**
+Karlheinz Stockhausen - Kontakte; Gesang der Junglinge
+La Monte Young - Dream House 78'17
 
 
 
@@ -147,46 +141,51 @@ Karlheinz Stockhausen - Kontakte** ; Gesang der Junglinge**
 
 
 
-Vladimir Ussachevsky
-David Behrman - On the Other Ocean
-Earle Brown
-Morton Subotnick - Axolotl
+
+
+
 
 ++Free Jazz, Free Improvisation
+
+
+AMM
+Art Ensemble of Chicago
+Derek Baily - The London Concert; Yankees
+Anthony Braxton - For Alto ; Creative Orchestra Music
+Peter Brotzmann - Machine Gun**
+Peter Evans - Nature / Culture
+The Ganelin Trio - Live in East Germany
+Globe Unity Orchestra
+Milford Graves - Nono, Babi
+Gunter Hampel - The 8th of July 1969
+Steve Lacey - 
+Roscoe Mitchell - Sound
 Evan Parker / Derek Bailey / Han Bennink - The Topography of the Lungs**
+William Parker
+Manfred Schoof - European Echos
+Spontaneous Music Ensemble
+Sun Ra
 Cecil Taylor - The Willisau Concert ; Air Above Mountains
 John Zorn - 
-The Peter Brotzmann Octet - Machine Gun**
-Roscoe Mitchell - Sound**
-Derek Bailey / George Lewis / John Zorn	- Yankees
-Sun Ra
-Spontaneous Music Ensemble
-Derek Baily / Evan Parker - The London Concert
+
+**
+
+
+
+
 Anthony Braxton & Derek Bailey - Duets
-Anthony Braxton - For Alto ; Creative Orchestra Music**
-The Ganelin Trio - Live in East Germany	
-Steve Lacey
-Gunter Hampel - The 8th of July 1969
-Peter Evans - Nature/Culture
-AMM
-MEV
-
-Bill Dixon - Intents and Purposes
-Manfred Schoof - European Echos
-Alan Silva - Luna Surface ; Seasons
-Dave Burrell - Echo
-Globe Unity Orchestra
-Milford Graves
-Art Ensemble of Chicago
-William Parker
+**
+	
 
 
-++Sound Art (see also tape experiments?)
-Alvin Lucier - I Am Sitting in a Room*** ; Music on a Long Thin Wire**
-Paul Panhuysen
-Doris (Sorrel) Hays - Voicings
-Robert Ashley - Private Parts
-John Cage & David Tudor - Variations IV**
+
+
+
+
+
+
+
+
 
 ++Drone, Ambient (lots of repeats from classical, electronic)
 La Monte Young
@@ -195,7 +194,6 @@ Tony Conrad - Four Violins
 Harley Gaber - The Winds Rise in the North
 Elaine Radigue
 Pauline Oliveros
-Terry Riley - A Rainbow in Curved Air
 Charlamagne Palestine
 
 ++Noise
@@ -211,3 +209,15 @@ Macronympha
 Aube
 Borbetomagus - Barbed Wire Maggots
 
+
+
+The New Music Department of WKCR seeks to explore the world of sound through experimental and avant-garde music. Although the term "New Music" is often used to decribe a movement of contemporary classical composition, WKCR uses the term to describe any music that attempts to stretch the boundaries of music and sound art. 
+
+
+
+
+Initially, many newcomers to the department feel a bit confused about understanding the concept of New Music, especially being able to differentiate New Music from the music covered in the other departments at WKCR. The term is ambiguous, and there is no objective definition regarding the form or sound of New Music. Rather, consider New Music not about any specific genre or style, but more about the attitude and approach towards the art. New Music can come in any form, as long as it sufficiently challenges the listener in ways that attempt to break or redefine conventions of music or sound art. So, you can find examples of New Music on the fringes of any genre - classical, jazz, electronic music, rock, and so on. 
+
+If you program for departments other than New Music, you may want to consider how to distinguish which department is most appropriate for certain experimental music. Movements like free jazz and indeterminate classical composition both stem from established musical traditions, but some pieces may appear so far removed from the sound of their respective heritage that it might not feel like it fits in with a show of another department. There is no simple answer to this question - it's a matter of taste and intuition. Each programmer and department head may have a different opinion on this matter, so feel free to develop your own approach to programming (or ask your department head). 
+
+The best way to figure these things out and to establish your own taste in New Music is to develop a deep base of knowledge of the subject. You are in luck: this page consists of a number of resources to help you explore the world of New Music. Listen to the recommended artists, watch the videos, explore the online resources in order to develop a feel for New Music. Use these resources as a starting point towards finding your own methods of exploring New Music. Keep listening! Keep learning! You can do it!
